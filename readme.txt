@@ -1,4 +1,14 @@
 
+
+***********
+
+please download the file higgs-social_network.edgelist from "https://snap.stanford.edu/data/higgs-mention_network.edgelist.gz"  and put it in the folder data\higgs-social_network.edgelist.I did not upload it due to its size(127 MB)
+its data is used in one of tests
+
+***********
+
+
+
 1-Please install all required packages listed in requirements.txt
 2- to test program :
 
